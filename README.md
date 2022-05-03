@@ -1,5 +1,3 @@
-Assignment #7 	Due: March 4, 2022 
-PLEASE SUBMIT YOUR WORK AS A SINGLE pdf DOCUMENT ON CANVAS. 
 Laboratory (20 pts) 
 Generic N-bit ALU  
  
