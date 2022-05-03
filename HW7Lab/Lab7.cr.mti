@@ -1,0 +1,29 @@
+C:/intelFPGA/HW7Lab/alu_slice.sv {1 {vlog -work work -sv -stats=none C:/intelFPGA/HW7Lab/alu_slice.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alu_slice
+
+Top level modules:
+	alu_slice
+
+} {} {}} C:/intelFPGA/HW7Lab/testbench_lab4.sv {1 {vlog -work work -sv -stats=none C:/intelFPGA/HW7Lab/testbench_lab4.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module testbench_lab4
+
+Top level modules:
+	testbench_lab4
+
+} {} {}} C:/intelFPGA/HW7Lab/rc_adder_slice.sv {1 {vlog -work work -sv -stats=none C:/intelFPGA/HW7Lab/rc_adder_slice.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module rc_adder_slice
+
+Top level modules:
+	rc_adder_slice
+
+} {} {}} C:/intelFPGA/HW7Lab/gen_alu.sv {1 {vlog -work work -sv -stats=none C:/intelFPGA/HW7Lab/gen_alu.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module gen_alu
+
+Top level modules:
+	gen_alu
+
+} {} {}}
